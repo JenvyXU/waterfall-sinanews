@@ -1,5 +1,5 @@
 ## 瀑布流新闻
-预览地址：
+预览地址：https://jenvyxu.github.io/waterfall-sinanews/index.html
 
 ## 懒加载原理：
 1. 网页一开始只展示部分页面，
